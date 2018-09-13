@@ -13,7 +13,7 @@ export class Connection {
 
   private static readonly address = window.location.protocol === 'https:'
                                       ? `wss://${window.location.hostname}/feed/`
-                                      : `ws://${window.location.hostname}/feed/`;
+                                      : `ws://${window.location.hostname}:8080`;
 
   // private static readonly address = 'wss://telemetry.polkadot.io/feed/';
 

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "Parity Technologies Ltd. <admin@parity.io>",
   "license": "GPL-3.0",
-  "description": "Polkadot Telemetry frontend",
+  "description": "Chainx Telemetry frontend",
   "main": "build/index.js",
   "scripts": {
     "start": "tsc && node build/index.js",

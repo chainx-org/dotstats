@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "Parity Technologies Ltd. <admin@parity.io>",
   "license": "GPL-3.0",
-  "description": "Polkadot Telemetry frontend",
+  "description": "Chainx Telemetry frontend",
   "dependencies": {
     "react": "16.4.0",
     "react-dom": "16.4.0",
